@@ -1,0 +1,7 @@
+export { default as arcadeThumbnail } from './arcade-thumbnail.jpg'
+export { default as arcadeHome } from './arcade-carousel-home.jpg'
+export { default as arcadeHighscores } from './arcade-carousel-highscores.jpg'
+export { default as arcadeSettings } from './arcade-carousel-settings.jpg'
+export { default as arcadeNew } from './arcade-carousel-new.jpg'
+export { default as arcadeGame } from './arcade-carousel-game.jpg'
+export { default as arcadeTitle } from './arcade-carousel-title.jpg'

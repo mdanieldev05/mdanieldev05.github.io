@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="title" property="og:title" content="Daniel Mueller Personal Portfolio" />
+    <meta property="og:type" content="Website" />
+    <meta
+      name="thumbnail-image"
+      property="og:image"
+      content="%PUBLIC_URL%/personal-site-thumbnail.jpg"
+    />
+    <meta
+      name="description"
+      property="og:description"
+      content="Personal Portfolio Site"
+    />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Daniel Mueller" />
+    <meta
+      name="description"
+      content="Personal Portfolio Site"
+    />
+    <title>Daniel Mueller</title>
+    <script type="text/javascript">
+      // Allows GitHub Pages to recognize routes within the single page app upon refresh
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
