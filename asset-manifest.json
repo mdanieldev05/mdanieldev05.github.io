@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.01eec990.css",
-    "main.js": "/static/js/main.5b8d0508.js",
+    "main.js": "/static/js/main.18e507e8.js",
     "static/media/arcade-thumbnail.jpg": "/static/media/arcade-thumbnail.7e48a9403b6adb4cdec3.jpg",
     "static/media/ews-carousel-single.jpg": "/static/media/ews-carousel-single.00922cf3d8ca62aa465c.jpg",
     "static/media/ews-carousel-products.jpg": "/static/media/ews-carousel-products.ed05a827b2b8180a8904.jpg",
@@ -12,20 +12,20 @@
     "static/media/ews-carousel-edit.jpg": "/static/media/ews-carousel-edit.aa15c563a526be8001d9.jpg",
     "static/media/arcade-carousel-home.jpg": "/static/media/arcade-carousel-home.d9e7d0ec4adc8a615680.jpg",
     "static/media/arcade-carousel-highscores.jpg": "/static/media/arcade-carousel-highscores.9db66c824036fe867125.jpg",
+    "static/media/Daniel-Mueller.pdf": "/static/media/Daniel-Mueller.c391409eeca26e13ad5e.pdf",
     "static/media/arcade-carousel-game.jpg": "/static/media/arcade-carousel-game.11424d93941584e2f565.jpg",
     "static/media/fitness-carousel-edit.jpg": "/static/media/fitness-carousel-edit.c7bfa70dcee7af3c2658.jpg",
     "static/media/fitness-carousel-routines.jpg": "/static/media/fitness-carousel-routines.cafa997b299291e42643.jpg",
-    "static/media/Daniel-Mueller.pdf": "/static/media/Daniel-Mueller.e2c765af918a81774b0b.pdf",
     "static/media/fitness-carousel-home.jpg": "/static/media/fitness-carousel-home.f659b502be16fd54cd97.jpg",
     "static/media/footer-github.png": "/static/media/footer-github.6119549f92d20c3b0f7d.png",
     "static/media/arcade-carousel-title.jpg": "/static/media/arcade-carousel-title.09f1a11f0fef52730a68.jpg",
     "static/media/ews-thumbnail.jpg": "/static/media/ews-thumbnail.f604851382134ee751ec.jpg",
     "index.html": "/index.html",
     "main.01eec990.css.map": "/static/css/main.01eec990.css.map",
-    "main.5b8d0508.js.map": "/static/js/main.5b8d0508.js.map"
+    "main.18e507e8.js.map": "/static/js/main.18e507e8.js.map"
   },
   "entrypoints": [
     "static/css/main.01eec990.css",
-    "static/js/main.5b8d0508.js"
+    "static/js/main.18e507e8.js"
   ]
 }
